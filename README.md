@@ -2,7 +2,9 @@
 To derive text from the sample .wav file 
 
 
-Need to install below commands .
+Need to install below two commands .
 
-`pip install speech_recognition`
+`pip install speech_recognition` .
+
+
 `pip install pydub`
